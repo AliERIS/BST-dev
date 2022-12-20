@@ -3,7 +3,7 @@
 
                          5   root'u 5'tir.
                         / \
-                      3     7      5'ten küçük olanı sağa büyük olanı sağa yazıyoruz.
+                      3     7      5'ten küçük olanı sola büyük olanı sağa yazıyoruz.
                      / \   / \     
                     1   4  6   8   3'ten ve 7'den küçük ve büyük olanları aynı şekilde sağa ve sola yazarak devam ediyoruz
                    / \          \  
